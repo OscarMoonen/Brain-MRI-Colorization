@@ -19,8 +19,8 @@ If you simply want to generate colorizations of MRI scans follow the following s
 
 If you want to run the model
 1. Download "model.ipynb"
-2. Download "Cryodf.pkl"
-3. Download "MRIdf.pkl"
+2. Download "Cryodf.pkl" (https://drive.google.com/drive/folders/1ulCaZs5tt95jY35-Zj3JBrPVYcXxT9DW?usp=sharing)
+3. Download "MRIdf.pkl"  (https://drive.google.com/drive/folders/1ulCaZs5tt95jY35-Zj3JBrPVYcXxT9DW?usp=sharing)
 4. Upload files to Google Drive
 5. Open "model.ipynb" in Google Colab
 6. Adjust file locations as instructed in notebook
