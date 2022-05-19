@@ -12,18 +12,18 @@ If you simply want to generate colorizations of MRI scans follow the following s
 2. Downlaod "model.pt"
 3. Upload both files to Google Drive
 4. Open "loadModel.ipynb" in Google Colab
-5. Adjust folder locations to files
+5. Adjust folder locations 
 6. Upload MRI scans in .png format and 256x256 resolution (see MRI-example.png)
 7. Run Model
 8. Enjoy your MRI scans in color (:
 
-If you want to run the model
+If you want to train a new model:
 1. Download "model.ipynb"
 2. Go to the shared drive folder: https://drive.google.com/drive/folders/1ulCaZs5tt95jY35-Zj3JBrPVYcXxT9DW?usp=sharing
 3. Download "Cryodf.pkl" 
 4. Download "MRIdf.pkl"  
 5. Upload files to Google Drive
 6. Open "model.ipynb" in Google Colab
-7. Adjust file locations to files
+7. Adjust folder locations 
 8. Set preferred settings
 9. Run Model
