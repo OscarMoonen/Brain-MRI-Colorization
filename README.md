@@ -9,7 +9,7 @@ The code is made to run with Google Colab and can easily be implemented there.
 
 If you simply want to generate colorizations of MRI scans follow the following steps:
 1. Download "loadModel.ipynb"
-2. Downlaod "G_MC.pht"
+2. Downlaod "model.pt"
 3. Upload both files to Google Drive
 4. Open "loadModel.ipynb" in Google Colab
 5. Adjust folder locations as instructed in notebook
