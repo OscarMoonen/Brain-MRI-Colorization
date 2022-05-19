@@ -2,7 +2,7 @@
 
 This repository contains the code used in the thesis "Producing structure preserving MRI colorizations with biologically plausible color distributions using a CycleGAN"
 
-![alt text]([http://url/to/img.png](https://github.com/OscarMoonen/Brain-MRI-Colorization/edit/main/Results.png))
+![alt text]((https://github.com/OscarMoonen/Brain-MRI-Colorization/edit/main/Results.png))
 
 The code is made to run with Google Colab and can easily be implemented there. 
 
